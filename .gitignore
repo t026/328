@@ -39,6 +39,8 @@ Thumbs.db
 # Models #
 ##########
 *.pt
+*.safetensors
+
 A1/cifar-10-batches-py
 A1/data
 A1/MNIST_dataset
